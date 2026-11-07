@@ -1,0 +1,401 @@
+id,product_name,category_id,price,stock_quantity,rating
+1,toy,3,1901.24,559,5
+2,software game gear,9,36.21,621,4
+3,book,6,1849.76,535,3
+4,appliance,3,215.26,629,
+5,hardware kitchenware,9,1797.51,429,3
+6,jewelry game,4,,378,2
+7,book kitchenware hardware,10,387.03,472,4
+8,gadget,6,7.35,451,5
+9,jewelry product accessory,8,953.63,782,2
+10,tool cosmetic,8,799.39,577,5
+11,item accessory,9,1029.83,587,4
+12,hardware,5,988.41,602,5
+13,appliance cosmetic gear,1,1767.29,572,5
+14,footwear,6,,555,2
+15,footwear hardware item,8,992.54,702,5
+16,kitchenware product,10,94.92,475,4
+17,hardware,10,897.92,564,3
+18,jewelry,10,1412.52,628,5
+19,stationery,10,315.81,372,3
+20,tool,3,315.16,671,2
+21,book tool,2,717.55,356,5
+22,clothing appliance book,5,1792.92,592,
+23,stationery software,1,635.90,339,5
+24,product gear,8,555.22,454,3
+25,widget gadget gear,3,1125.15,418,2
+26,game item furniture,8,1287.75,309,3
+27,kitchenware stationery game,7,791.05,640,2
+28,software widget game,1,5.32,553,5
+29,gadget product jewelry,6,639.56,513,2
+30,game widget,1,1138.45,389,4
+31,gadget tool book,2,117.53,585,4
+32,stationery,5,1951.83,386,5
+33,book widget kitchenware,4,11.02,504,2
+34,footwear gear,9,472.49,432,5
+35,stationery accessory,2,1037.91,435,3
+36,tool kitchenware furniture,10,1949.30,344,2
+37,device,6,373.02,309,3
+38,device hardware appliance,10,38.19,633,3
+39,clothing appliance,9,854.47,294,5
+40,cosmetic,5,548.76,596,3
+41,gear item,7,1815.91,595,1
+42,toy cosmetic,9,549.06,519,5
+43,book,2,512.90,585,1
+44,kitchenware appliance,9,20.80,400,5
+45,book jewelry,7,,540,5
+46,game item clothing,5,108.96,865,2
+47,widget,8,155.84,320,5
+48,gadget hardware,10,222.12,471,4
+49,game jewelry,7,,378,3
+50,accessory clothing,9,,466,4
+51,book product cosmetic,3,83.34,448,
+52,software,3,7.23,604,4
+53,stationery,2,571.94,303,5
+54,game footwear,10,68.58,493,5
+55,widget gear,10,1289.88,339,
+56,hardware kitchenware tool,3,1464.22,751,2
+57,item software device,2,5.06,527,2
+58,toy accessory cosmetic,3,410.63,542,
+59,item kitchenware appliance,9,1692.28,577,2
+60,clothing item,8,68.49,709,2
+61,toy footwear tool,9,1150.25,509,4
+62,game gadget jewelry,10,5.49,354,3
+63,appliance,10,406.88,416,3
+64,product book appliance,2,1969.43,464,5
+65,hardware kitchenware gadget,5,37.50,493,3
+66,clothing furniture,8,839.97,421,5
+67,tool toy,7,18.03,326,3
+68,widget jewelry,2,653.75,434,5
+69,widget,2,65.49,465,4
+70,widget,4,891.19,446,5
+71,widget,2,139.23,489,2
+72,tool clothing,1,1832.72,278,3
+73,product,7,1611.69,637,5
+74,gear,1,778.25,628,
+75,stationery,9,112.17,397,4
+76,gadget,1,118.21,568,1
+77,hardware kitchenware game,3,5.04,555,4
+78,furniture gadget,5,1417.91,646,4
+79,software stationery appliance,10,1588.48,433,5
+80,jewelry clothing,1,1201.46,625,5
+81,appliance,6,306.56,374,3
+82,tool,4,391.23,420,3
+83,hardware product widget,5,880.64,387,5
+84,widget software,5,1142.75,284,3
+85,toy,4,10.78,626,2
+86,game software,4,1256.85,559,4
+87,gadget,6,215.80,561,5
+88,kitchenware,10,23.57,850,5
+89,toy,3,145.95,542,5
+90,hardware item kitchenware,5,1145.77,207,5
+91,book gadget stationery,4,1625.22,604,3
+92,tool cosmetic toy,5,195.52,602,5
+93,hardware gear stationery,4,8.18,706,5
+94,widget,4,207.43,408,
+95,cosmetic,10,1613.97,536,3
+96,toy,4,538.85,357,4
+97,appliance gadget,3,1213.08,598,2
+98,accessory,8,144.13,751,3
+99,device appliance furniture,3,,630,2
+100,gear,7,330.79,545,4
+101,appliance,2,948.83,487,5
+102,accessory cosmetic game,6,182.70,246,5
+103,tool,10,216.42,327,
+104,gear furniture,4,24.69,382,5
+105,stationery,4,680.84,579,5
+106,item,6,434.78,195,5
+107,kitchenware product,1,726.70,591,4
+108,appliance,4,229.45,700,4
+109,furniture,4,1375.48,600,5
+110,widget furniture,1,270.70,440,4
+111,game,9,,486,
+112,appliance item,7,29.81,568,5
+113,accessory appliance widget,6,1140.44,557,
+114,software,3,1388.40,803,
+115,clothing cosmetic jewelry,9,1122.89,601,5
+116,furniture,2,55.47,480,3
+117,kitchenware stationery book,10,706.56,590,3
+118,software,1,6.17,746,3
+119,appliance clothing accessory,3,281.47,497,1
+120,kitchenware,4,227.94,433,4
+121,software,9,1454.99,571,3
+122,game clothing accessory,5,,411,5
+123,widget,1,226.99,668,2
+124,tool,8,23.71,441,4
+125,tool,4,23.11,461,2
+126,footwear hardware,6,883.14,744,5
+127,footwear book toy,7,1179.58,530,4
+128,footwear widget gadget,8,48.37,229,5
+129,furniture appliance,8,362.64,582,4
+130,furniture software,7,1743.99,581,2
+131,device appliance cosmetic,2,1594.17,496,5
+132,clothing hardware,5,1938.65,167,2
+133,gear,6,824.77,306,4
+134,jewelry,8,1873.53,718,
+135,tool kitchenware,6,1609.74,604,1
+136,accessory jewelry software,7,810.70,388,2
+137,clothing device footwear,9,1063.10,699,1
+138,product accessory game,7,1110.01,531,5
+139,book furniture cosmetic,1,673.04,433,5
+140,jewelry product kitchenware,3,,487,5
+141,widget device,7,651.26,156,4
+142,hardware device,1,479.10,474,3
+143,tool stationery,8,12.68,640,4
+144,footwear tool,5,1104.83,528,5
+145,hardware widget stationery,5,1221.29,786,4
+146,stationery hardware,6,1518.61,383,4
+147,appliance,9,521.12,455,3
+148,accessory clothing,6,111.05,540,3
+149,item,1,1096.88,417,3
+150,appliance toy,3,881.56,598,3
+151,item device,8,925.77,323,3
+152,widget gadget,6,1247.29,461,5
+153,widget,1,7.88,480,
+154,cosmetic gear,7,,429,4
+155,cosmetic,8,764.40,371,
+156,gear gadget jewelry,4,631.36,720,4
+157,clothing cosmetic,7,,293,
+158,toy,6,,575,4
+159,item,7,1105.37,199,4
+160,appliance,1,1713.98,416,4
+161,footwear clothing,1,23.93,420,1
+162,stationery tool,4,33.94,414,
+163,appliance accessory widget,1,604.85,822,4
+164,furniture tool widget,5,14.66,287,
+165,device gear,4,,490,2
+166,appliance software,7,278.58,424,5
+167,widget,2,1433.51,647,5
+168,appliance,1,1679.16,617,5
+169,toy,8,620.47,840,
+170,widget hardware,9,96.18,432,5
+171,item product software,10,,406,2
+172,game gear,7,1763.22,347,3
+173,kitchenware appliance,9,1277.91,417,3
+174,furniture,2,1619.64,416,5
+175,clothing,1,614.23,581,4
+176,tool device gear,2,743.70,621,2
+177,furniture tool hardware,1,80.34,400,3
+178,furniture book gadget,5,,128,5
+179,footwear item,7,19.44,306,3
+180,gadget hardware widget,3,1659.96,354,3
+181,hardware product stationery,8,810.82,473,3
+182,cosmetic widget kitchenware,2,158.30,625,4
+183,accessory item toy,8,190.11,551,4
+184,device stationery,2,1311.42,369,4
+185,gadget appliance,4,90.89,735,2
+186,book,6,1270.26,540,5
+187,tool game,7,6.41,589,2
+188,hardware gadget,2,,399,2
+189,widget gadget,10,89.88,442,2
+190,toy footwear,2,276.83,339,1
+191,gear toy,1,318.20,317,5
+192,book toy gadget,9,80.87,599,2
+193,appliance book,9,333.43,504,5
+194,widget toy tool,7,577.80,664,2
+195,furniture gadget,5,213.81,700,2
+196,device accessory,9,470.93,492,5
+197,jewelry,8,,477,2
+198,software,10,1338.06,237,5
+199,gear item,1,1342.92,403,5
+200,book widget device,5,119.30,524,3
+201,toy game device,2,745.15,412,5
+202,cosmetic toy,10,5.12,573,2
+203,hardware jewelry,7,27.29,445,5
+204,jewelry gear,5,719.36,633,5
+205,device cosmetic,6,307.06,506,4
+206,kitchenware hardware,8,1276.65,420,
+207,kitchenware appliance,10,88.37,615,
+208,appliance hardware,10,,379,5
+209,clothing toy furniture,9,21.36,518,5
+210,footwear hardware cosmetic,4,1587.56,415,2
+211,game,2,1632.84,758,4
+212,software,7,23.20,418,4
+213,stationery,7,1820.56,525,1
+214,accessory item game,5,525.79,505,3
+215,jewelry,2,267.48,730,3
+216,appliance,6,175.29,284,5
+217,footwear,2,1144.11,316,5
+218,stationery toy kitchenware,6,19.38,527,2
+219,cosmetic,6,1333.39,768,2
+220,item widget footwear,2,121.79,335,3
+221,footwear hardware,4,,481,4
+222,clothing,9,66.44,459,4
+223,gear,9,1789.56,454,5
+224,game,5,56.71,398,4
+225,stationery game cosmetic,1,24.84,208,4
+226,item tool accessory,8,1240.99,470,
+227,hardware footwear,3,12.42,520,5
+228,device product footwear,9,81.78,375,
+229,gear,4,1765.27,457,5
+230,footwear,10,473.43,444,3
+231,furniture accessory,9,439.19,447,5
+232,jewelry accessory,10,1617.63,485,5
+233,accessory,1,1839.59,630,5
+234,clothing,6,8.88,501,4
+235,accessory footwear tool,2,854.14,507,3
+236,footwear jewelry toy,1,94.29,761,1
+237,product software,3,1631.91,328,5
+238,toy product,2,1163.15,241,
+239,clothing tool game,7,431.14,489,2
+240,appliance,3,1828.04,361,1
+241,item appliance,3,5.39,344,4
+242,gadget,4,1019.69,613,1
+243,book widget hardware,2,9.63,526,4
+244,hardware jewelry,5,604.35,678,5
+245,widget furniture,7,1034.26,495,2
+246,book,5,286.20,393,3
+247,software,8,37.28,481,3
+248,gear cosmetic hardware,9,40.13,606,3
+249,software,7,810.67,554,5
+250,game stationery,7,,387,5
+251,device hardware,9,941.06,564,3
+252,widget device,8,234.82,425,5
+253,hardware product gear,6,1202.01,638,
+254,furniture book,7,289.42,758,3
+255,jewelry tool,7,84.55,600,3
+256,accessory gear toy,10,,431,4
+257,tool,2,389.08,569,5
+258,hardware,3,1594.82,649,4
+259,jewelry,3,,422,3
+260,kitchenware tool device,8,218.56,785,3
+261,product,8,1512.67,753,3
+262,stationery,5,134.59,413,3
+263,appliance,7,124.72,348,2
+264,hardware appliance book,3,1414.39,604,4
+265,jewelry,9,12.18,359,5
+266,appliance,10,62.05,615,4
+267,furniture cosmetic item,8,1906.43,210,5
+268,game kitchenware,8,371.41,524,3
+269,device clothing,7,,190,3
+270,cosmetic,3,1093.61,349,4
+271,product footwear software,3,758.88,573,2
+272,stationery cosmetic,4,217.12,448,
+273,appliance,5,530.66,555,5
+274,tool device,7,991.24,646,4
+275,footwear,7,133.57,730,1
+276,furniture tool widget,10,,433,1
+277,product footwear,6,82.71,437,3
+278,game device,6,72.26,480,4
+279,game,9,876.00,738,4
+280,accessory toy,2,288.62,492,5
+281,footwear furniture,5,795.56,505,4
+282,widget,4,642.31,469,3
+283,gear,4,,480,
+284,furniture footwear gadget,1,543.52,617,5
+285,tool hardware game,10,439.25,330,4
+286,gadget,6,605.04,369,5
+287,appliance device game,3,87.92,631,5
+288,product gear widget,10,1102.73,578,5
+289,tool,2,180.40,471,3
+290,gear,2,1053.72,389,2
+291,widget jewelry stationery,1,1558.00,366,
+292,device,8,188.77,340,1
+293,clothing tool device,1,879.70,726,5
+294,footwear game,4,12.48,325,
+295,furniture toy tool,9,139.32,654,5
+296,tool,4,591.19,514,1
+297,item widget clothing,6,30.03,398,3
+298,game footwear software,1,9.14,277,4
+299,device,5,47.77,482,4
+300,footwear product book,10,1496.29,570,2
+301,furniture,1,1068.00,306,
+302,hardware gadget,1,23.56,558,
+303,kitchenware,7,,362,4
+304,footwear stationery item,8,1177.87,266,1
+305,game item,9,147.28,616,4
+306,gadget,5,29.73,612,4
+307,clothing book,9,329.51,534,5
+308,appliance product,1,1189.78,631,4
+309,footwear,4,1162.27,482,5
+310,book stationery cosmetic,7,155.02,667,5
+311,hardware accessory,5,45.43,508,4
+312,product,8,,461,5
+313,product,10,1207.05,457,4
+314,widget,1,764.95,460,3
+315,book furniture gadget,3,841.42,495,1
+316,furniture,2,71.63,480,3
+317,software,4,942.92,499,3
+318,item accessory furniture,9,285.88,169,5
+319,appliance,2,17.17,437,5
+320,tool game accessory,6,9.82,579,5
+321,software appliance,1,185.78,564,5
+322,jewelry software item,1,393.39,515,5
+323,stationery,3,440.19,750,3
+324,jewelry tool,8,276.43,553,
+325,jewelry software game,10,476.56,414,3
+326,accessory,8,532.53,276,5
+327,clothing footwear,7,1229.18,410,4
+328,accessory device clothing,8,153.36,406,4
+329,book jewelry,4,14.85,413,3
+330,toy clothing,10,76.26,116,2
+331,accessory toy widget,8,1321.76,539,5
+332,toy cosmetic clothing,10,795.94,442,5
+333,footwear,6,100.91,592,4
+334,cosmetic kitchenware,3,1061.60,465,5
+335,book toy product,4,,460,5
+336,product,10,188.44,620,4
+337,jewelry,4,364.24,431,5
+338,book game device,5,15.88,337,2
+339,cosmetic hardware,9,618.74,500,3
+340,product clothing,4,1677.53,553,5
+341,gear accessory,5,777.67,844,4
+342,game accessory gear,4,58.08,644,2
+343,gear,10,435.84,473,2
+344,toy,9,261.95,597,5
+345,accessory,1,1521.39,430,1
+346,game widget item,2,,248,4
+347,tool,2,6.32,605,4
+348,stationery accessory,8,1927.19,465,
+349,widget,2,,419,5
+350,furniture,2,13.01,658,
+351,game gear,6,234.95,490,5
+352,book cosmetic clothing,3,24.64,777,4
+353,widget jewelry,1,839.55,328,2
+354,toy appliance,8,377.08,346,3
+355,cosmetic widget gear,5,194.78,535,2
+356,clothing gadget toy,8,485.24,538,5
+357,item cosmetic toy,3,1734.41,404,4
+358,furniture tool footwear,1,1941.28,621,3
+359,software hardware,2,144.74,416,5
+360,device toy,6,1973.02,370,5
+361,appliance,10,,730,3
+362,widget book,4,18.62,435,4
+363,gear furniture software,5,154.08,669,3
+364,accessory,2,729.76,550,4
+365,footwear accessory,6,673.14,500,3
+366,hardware,8,362.02,848,3
+367,kitchenware accessory software,8,1699.66,380,2
+368,furniture toy,7,345.89,837,
+369,software footwear accessory,3,220.22,572,
+370,tool,5,,483,4
+371,tool gear cosmetic,2,717.98,289,5
+372,gear clothing product,9,1224.44,513,4
+373,widget kitchenware tool,4,486.39,335,2
+374,accessory appliance,7,397.35,496,
+375,widget,6,200.10,656,4
+376,gear furniture kitchenware,1,1671.61,550,
+377,item book kitchenware,1,1901.93,557,4
+378,jewelry,1,145.12,723,1
+379,appliance toy,2,,665,1
+380,appliance software,9,259.43,588,2
+381,cosmetic device,7,1678.01,438,5
+382,accessory item appliance,1,416.99,534,5
+383,furniture,2,55.23,465,1
+384,gadget furniture widget,3,1387.88,343,1
+385,appliance,6,7.05,531,1
+386,cosmetic,4,1838.32,294,2
+387,product gadget,1,1704.05,392,4
+388,furniture accessory,8,5.97,386,4
+389,gear jewelry,3,783.19,260,3
+390,stationery software book,8,1945.34,530,1
+391,stationery,7,376.34,654,2
+392,gear toy,7,446.55,372,3
+393,widget,6,1432.72,282,
+394,accessory hardware,10,652.16,482,
+395,item game,9,577.64,566,3
+396,footwear device accessory,4,237.73,382,5
+397,kitchenware book hardware,10,1668.25,618,5
+398,game,2,191.44,287,5
+399,gear tool gadget,2,897.97,459,5
+400,gadget accessory book,2,755.55,716,4
