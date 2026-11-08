@@ -24,7 +24,7 @@ The database consists of five tables:
 
 ### Entity Relationship Diagram
 
-![E-Commerce ER Diagram](ER_Diagram/ecommerce_ER_diagram.png)
+![E-Commerce ER Diagram](ER_Diagram/ecommerce_project_diagram.png)
 
 ## Project Tasks & Analysis
 
